@@ -35,3 +35,9 @@ DevOps Engineer, Cloud Native Engineer, command line inhabitant. I work mainly w
 ## Certifications
 AWS DevOps Engineer
 
+## Builds
+
+| # | Project | Stack |
+|---|---------|-------|
+| 1 | [Terraform, Nginx](https://github.com/geocyt/prj-nginx-tf.git) | Terraform, Nginx  |
+
