@@ -2,7 +2,7 @@
 ## George Toko
 **Software / Cloud / DevOps Engineer**
 
-DevOps Engineer, Cloud Native Engineer, command line inhabitant. I work mainly with Linux, Azure, AWS, Docker, Postgres, Python and Flutter.
+ I work mainly with Azure, AWS, Linux, Docker, PostgreSQL, Python and Flutter.
 
 
 ## Tech Stack
@@ -20,10 +20,10 @@ AWS DevOps Engineer
 
 ## What I do
 - Currently building infrastructure on AWS, AZURE with Terraform
-- Implement CICD with GitHub Actions and AWS Pipeline to eliminating 90% of errors
+- Implement CICD with GitHub Actions and AWS Pipeline eliminating 90% of errors
 - Write python scripts to automate manual tasks
-- Write cross-platform mobile code with Flutter
-- Containerize applications reducing to server costs 
+- Write cross-platform code with Flutter
+- Containerize applications to reduce to server costs 
 
 ## Builds
 
