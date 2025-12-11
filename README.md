@@ -1,21 +1,4 @@
 
-<!--
-## Hi there 👋
-**geocyt/geocyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## George Toko
 **Software / Cloud / DevOps Engineer**
 
@@ -35,8 +18,16 @@ DevOps Engineer, Cloud Native Engineer, command line inhabitant. I work mainly w
 ## Certifications
 AWS DevOps Engineer
 
+## What I do
+- Currently building infrastructure on AWS, AZURE with Terraform
+- Implement CICD with GitHub Actions and AWS Pipeline to eliminating 90% of errors
+- Write python scripts to automate manual tasks
+- Write cross-platform mobile code with Flutter
+- Containerize applications reducing to server costs 
+
 ## Builds
 
+### Terraform
 | # | Project | Stack |
 |---|---------|-------|
 | 1 | [Terraform, Nginx](https://github.com/geocyt/prj-nginx-tf.git) | Terraform, Nginx  |
